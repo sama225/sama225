@@ -7,12 +7,15 @@ Currently exploring the world of mobile development and bringing my ideas to lif
 ---
 
 ### 👩‍💻 What I’m learning:
+Learning how to design better user experiences and clean UI layouts ✨  
 <br>
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-%23ff69b4.svg?style=for-the-badge)
 
 ---
 
@@ -47,10 +50,10 @@ Currently exploring the world of mobile development and bringing my ideas to lif
 
 ### 🌱 Personal Interests:
 Besides coding, I love:
-- Designing UI interfaces and playing with color palettes 🎨
-- Reading self-development books 📚
-- Volunteering and helping others whenever I can 🤝
-- Exploring new technologies and ideas 💡
+- Designing UI interfaces and playing with color palettes 🎨  
+- Reading self-development books 📚  
+- Volunteering and helping others whenever I can 🤝  
+- Exploring new technologies and ideas 💡  
 - Supporting meaningful causes, especially related to justice and freedom 🌍
 
 ---
@@ -64,3 +67,4 @@ Feel free to reach out if you want to collaborate or just chat about Flutter & t
 ---
 
 > “Code like a girl, build like a pro.” 💙
+
