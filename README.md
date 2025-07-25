@@ -34,7 +34,7 @@ Learning how to design better user experiences and clean UI layouts ✨
 <details>
 <summary>Click to expand</summary>
 
-![Sama's GitHub stats](https://github-readme-stats.vercel.app/api?username=sama225&show_icons=true&theme=radical)
+![Sama's GitHub stats](https://github-readme-stats.vercel.app/api?username=sama225&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sama225&layout=compact&theme=radical)
 
 </details>
@@ -69,4 +69,3 @@ Feel free to reach out if you want to collaborate or just chat about Flutter & t
 ---
 
 > “Code like a girl, build like a pro.” 💙
-
