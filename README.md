@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/yNVWngsM/Chat-GPT-Image-Jul-25-2025-11-57-37-PM.png" alt="Sama Osama Banner" width="85%" height = "400px" style="border-radius: 50px;">
+  <img src="https://i.postimg.cc/yNVWngsM/Chat-GPT-Image-Jul-25-2025-11-57-37-PM.png" alt="Sama Osama Banner" width="85%" height = "370px">
 </p>
 
 
