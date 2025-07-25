@@ -1,4 +1,7 @@
-![Sama Osama Banner](https://i.imgur.com/fhS2Qf5.png)
+<p align="center">
+  <img src="https://i.imgur.com/fhS2Qf5.png" alt="Sama Osama Banner" width="100%">
+</p>
+
 
 ### Hi there 👋
 
