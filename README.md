@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/PJfBRHPr/ppp.png" alt="Sama Osama Banner" width="80%" height = "350px">
+  <img src="https://i.postimg.cc/PJfBRHPr/ppp.png" alt="Sama Osama Banner" width="70%" height = "330px">
 </p>
 
 
