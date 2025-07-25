@@ -1,3 +1,5 @@
+![Sama Osama Banner](https://i.imgur.com/fhS2Qf5.png)
+
 ### Hi there 👋
 
 I'm **Sama Osama** — a Flutter Developer in the making! 🚀  
